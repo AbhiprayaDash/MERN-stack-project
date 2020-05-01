@@ -1,6 +1,0 @@
-{
-    "mongoURI":"mongodb+srv://Abhipraya:Abhipraya@12@cluster0-gdihm.mongodb.net/test?retryWrites=true&w=majority",
-    "jwtSecret":"mysecrettoken",
-    "githubClientId":"4eb954cba4435356e69b",
-    "githubSecret":"d51c2898389c2440008ee4ea34d174984dd29cfc"
-}
